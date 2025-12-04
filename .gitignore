@@ -1,0 +1,14 @@
+# File sistem (Windows / Mac)
+.DS_Store
+Thumbs.db
+
+# Folder backup (kalau ada)
+backup/
+temp/
+
+# Abaikan file gambar besar yang tidak ingin ikut ke Git (opsional)
+# contoh:
+# nitha.jpg
+
+# Abaikan folder pribadi
+private/
